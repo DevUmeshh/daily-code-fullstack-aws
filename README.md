@@ -1,192 +1,53 @@
-# 🚀 Frontend Development Journey (2026)
+# MERN + DevOps Prep
 
-> **My mission is simple:** Become an industry-ready Frontend Engineer by mastering modern web development, building production-level projects, and documenting every step of the journey.
+This is where I'm documenting my journey of getting properly good at full stack development (MERN) and DevOps/AWS — not just tutorials, but actual code I write, break, and fix while learning.
 
----
+I'm not following this repo to "look active" on GitHub. It's more of a working log — notes, mini builds, and practice snippets from whatever I'm learning that week, so future-me (and anyone checking this out) can see the actual progression instead of a polished end result.
 
-# 👋 About This Repository
+## Why this repo exists
 
-Welcome to my Frontend Development Journey.
+Most tutorials make things look easier than they are. I wanted a place where I could:
 
-This repository is a structured record of my learning process, hands-on practice, mini-projects, notes, and major projects while mastering modern frontend development.
+- Keep the messy, in-progress version of things, not just the final clean commit
+- Practice concepts right after learning them instead of letting them sit in notes
+- Have proof of consistency when I start applying for full stack / cloud roles
 
-Instead of simply completing tutorials, I am focusing on understanding concepts deeply and applying them through real-world development.
+## What I'm currently working through
 
----
+- [x] JavaScript fundamentals (closures, async/await, array methods)
+- [x] React basics — components, hooks, routing
+- [ ] Node.js + Express — building REST APIs from scratch
+- [ ] MongoDB + Mongoose — schema design, relationships
+- [ ] JWT authentication and protected routes
+- [ ] AWS fundamentals — IAM, EC2, S3
+- [ ] Docker basics
+- [ ] CI/CD with GitHub Actions
+- [ ] Deploying a full stack app on AWS end-to-end
 
-# 🎯 Goal
+I'll keep updating this list as I move forward. Some weeks I move fast, some weeks I get stuck on one concept for way too long — that's part of the process.
 
-* Master HTML5, CSS3, JavaScript, TypeScript, React, Next.js and modern frontend tools.
-* Build industry-level applications.
-* Learn best coding practices.
-* Improve problem-solving skills.
-* Create a strong GitHub portfolio.
-* Become placement-ready for Software Engineer and Frontend Developer roles.
+## What's inside
 
----
+This repo will slowly fill up with:
 
-# 🗓️ Learning Roadmap
+- Small practice scripts and concept demos
+- Backend API experiments (auth flows, CRUD, middleware)
+- Notes-to-self on things that confused me and how I figured them out
+- Links to bigger standalone projects once they're ready (kept in separate repos, linked back here)
 
-## Phase 1
+Nothing here is meant to be a "final product" — check my pinned repos for that. This one's the behind-the-scenes.
 
-* HTML5
-* Semantic HTML
-* Forms
-* Accessibility
-* SEO Basics
+## Tech I'm working with
 
-Status: ⏳
+`JavaScript` `React` `Node.js` `Express` `MongoDB` `AWS` `Docker` `Git`
 
----
+## A bit about me
 
-## Phase 2
+I'm Umesh — currently building toward a full stack + AWS cloud engineer role. Based in Nashik. Always down to connect with people on a similar path or anyone who wants to point out where I'm doing something wrong (genuinely, please do).
 
-* CSS3
-* Flexbox
-* CSS Grid
-* Responsive Design
-* Animations
-* Modern UI Design
-
-Status: ⏳
+- LinkedIn: [in/umeshjadhav09](https://linkedin.com/in/umeshjadhav09)
+- Email: umeshrajput24196@gmail.com
 
 ---
 
-## Phase 3
-
-* JavaScript (Advanced)
-* DOM
-* ES6+
-* Asynchronous JavaScript
-* Fetch API
-* OOP
-* Modules
-
-Status: ⏳
-
----
-
-## Phase 4
-
-* Git & GitHub
-* Version Control
-* Collaboration
-
-Status: ⏳
-
----
-
-## Phase 5
-
-* React.js
-* Hooks
-* Routing
-* API Integration
-* State Management
-
-Status: ⏳
-
----
-
-## Phase 6
-
-* TypeScript
-* Next.js
-* Performance Optimization
-
-Status: ⏳
-
----
-
-# 🛠️ Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React.js
-* Next.js
-* Tailwind CSS
-* Git
-* GitHub
-* Vite
-* VS Code
-
----
-
-# 📂 Repository Structure
-
-```
-Frontend-Journey/
-│
-├── HTML/
-├── CSS/
-├── JavaScript/
-├── TypeScript/
-├── React/
-├── NextJS/
-├── Notes/
-├── Practice/
-├── Mini Projects/
-├── Major Projects/
-└── Resources/
-```
-
----
-
-# 📈 Progress Tracker
-
-| Topic        | Status |
-| ------------ | ------ |
-| HTML         | ⏳      |
-| CSS          | ⏳      |
-| JavaScript   | ⏳      |
-| Git & GitHub | ⏳      |
-| React        | ⏳      |
-| TypeScript   | ⏳      |
-| Next.js      | ⏳      |
-| Projects     | ⏳      |
-
-Legend:
-
-* ⏳ Learning
-* ✅ Completed
-* 🚀 Mastered
-
----
-
-# 📚 Learning Resources
-
-* Official Documentation
-* MDN Web Docs
-* JavaScript.info
-* React Documentation
-* Next.js Documentation
-* Frontend Mentor
-
----
-
-# 🚀 Projects
-
-Projects will be added as I progress through the roadmap.
-
----
-
-# 📌 Rules I Follow
-
-* Learn every concept deeply.
-* Build instead of only watching tutorials.
-* Commit code regularly.
-* Write clean and maintainable code.
-* Keep improving previous projects.
-* Document everything I learn.
-
----
-
-# 🎯 Final Target
-
-By the end of this journey, I aim to confidently build scalable, responsive, and production-ready frontend applications while following industry best practices.
-
----
-
-## ⭐ If you find this repository helpful, feel free to star it and follow my journey!
+*If you're going through the same grind — feel free to fork this, steal the checklist structure, or just say hi.*
