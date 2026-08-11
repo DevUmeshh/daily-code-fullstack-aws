@@ -28,16 +28,7 @@ No polished portfolio pieces here — just real, in-progress code, notes, mistak
 - Databases — MongoDB & SQL (PostgreSQL/MySQL)
 - Authentication (JWT, sessions, OAuth)
 
-**AWS Cloud**
-- EC2 — spinning up and managing servers
-- S3 — storage basics and static hosting
-- Lambda — serverless functions
-- RDS — managed databases
-- IAM — permissions and security basics
-- Route 53, CloudFront, CodePipeline (as I get to them)
-- Working toward AWS Certified Developer / Solutions Architect
 
----
 
 ## 📁 How this repo is organized
 
