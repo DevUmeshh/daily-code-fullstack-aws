@@ -8,32 +8,57 @@ Nothing here is polished. It's real, in-progress code, honest notes, mistakes, a
 
 ## Why this repo exists
 
-- Build the habit of coding and shipping something every day
-- Stay accountable in public instead of just bookmarking tutorials
-- Document what I actually learn, not just what I copy-paste
-- Keep a real record of progress I can look back on
+I wanted a way to actually stay consistent instead of just watching tutorials and forgetting everything a week later. So the rule is simple: code something every day, push it, and write down what I learned — even if it's small, even if it's messy.
 
-## What I'm focusing on
+This is less about showing off finished projects and more about showing the actual process of learning: the confusion, the bugs, the "oh that's how it works" moments.
 
-### Frontend
-- HTML, CSS, JavaScript fundamentals
-- React — components, hooks, state management
-- Responsive design and Tailwind CSS
+## Roadmap / Syllabus I'm following
 
-### Backend
-- Node.js and Express
-- REST API design
-- Databases — MongoDB and SQL (PostgreSQL/MySQL)
+### Phase 1 — Frontend Foundations
+- HTML and CSS fundamentals (semantic markup, layouts, flexbox, grid)
+- JavaScript basics — variables, functions, DOM manipulation, events
+- Responsive design principles
+
+### Phase 2 — Frontend Frameworks
+- React fundamentals — components, props, state
+- React Hooks (useState, useEffect, useContext, etc.)
+- Tailwind CSS for styling
+
+### Phase 3 — Backend Development
+- Node.js basics
+- Express.js — routing, middleware
+- REST API design and best practices
+- Working with databases — MongoDB (NoSQL) and PostgreSQL/MySQL (SQL)
 - Authentication — JWT, sessions, OAuth
 
-### AWS Cloud
-- EC2 — spinning up and managing servers
-- S3 — storage basics and static hosting
+### Phase 4 — AWS Cloud Fundamentals
+- IAM — users, roles, permissions
+- EC2 — launching and managing servers
+- S3 — storage and static website hosting
+- RDS — managed relational databases
 - Lambda — serverless functions
-- RDS — managed databases
-- IAM — permissions and security basics
-- Route 53, CloudFront, CodePipeline (as I get to them)
-- Working toward AWS Certified Developer / Solutions Architect
+- API Gateway — connecting Lambda to REST endpoints
+- Route 53 and CloudFront — domains and content delivery
+- CodePipeline — basic CI/CD
+
+### Phase 5 — Putting It Together
+- Deploying a full-stack app on EC2
+- Building a serverless app with Lambda + API Gateway
+- Working toward AWS Certified Cloud Practitioner and AWS Certified Developer – Associate
+
+## Tech stack I'm learning
+
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Databases:** MongoDB, PostgreSQL, MySQL
+
+**Auth:** JWT, sessions, OAuth
+
+**Cloud (AWS):** EC2, S3, Lambda, RDS, IAM, Route 53, CloudFront, CodePipeline, API Gateway
+
+**Tools:** Git, GitHub, VS Code
 
 ## Repo structure
 
@@ -53,25 +78,6 @@ daily-code-fullstack-aws/
 Each `day-XXX` folder usually has:
 - The code from that day
 - A short `notes.md` explaining what I did, what I struggled with, and what I'd do differently
-
-## Progress log
-
-| Day | Date | Topic | Notes |
-|-----|------|-------|-------|
-| 001 | - | HTML/CSS basics | Getting back into semantic HTML |
-| 002 | - | JS DOM manipulation | - |
-| ... | ... | ... | ... |
-
-This table gets updated as I go. It's basically my commit history in table form.
-
-## Milestones
-
-- [ ] 100 days of consistent commits
-- [ ] Deploy my first full-stack app on AWS EC2
-- [ ] Build and deploy a serverless app using Lambda + API Gateway
-- [ ] Pass AWS Certified Cloud Practitioner
-- [ ] Pass AWS Certified Developer – Associate
-- [ ] Build one complete full-stack project, end-to-end, deployed and documented
 
 ## Follow along
 
