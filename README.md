@@ -19,6 +19,7 @@ No polished portfolio pieces here — just real, in-progress code, notes, mistak
 ---
 ## 🧰 What I'm focusing on
 
+
 **Frontend**
 - HTML, CSS, JavaScript fundamentals (no skipping the basics)
 - React — components, hooks, state management
