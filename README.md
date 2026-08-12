@@ -4,16 +4,6 @@ This is my public logbook. Every day (or as close to it as life allows) I push w
 
 No polished portfolio pieces here — just real, in-progress code, notes, mistakes, and small wins. If you're on a similar path, feel free to follow along, steal ideas, or point out where I'm doing something wrong. That's kind of the point.
 
----
-
-## 🎯 Why this repo exists
-
-- Build the habit of coding and shipping something *every single day*
-- Keep myself accountable in public instead of just bookmarking tutorials
-- Document what I actually learn, not just what I copy-paste
-- Build a real trail of progress I (or anyone else) can look back on
-
----
 
 ## 🧰 What I'm focusing on
 
