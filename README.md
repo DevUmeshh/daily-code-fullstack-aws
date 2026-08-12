@@ -1,37 +1,32 @@
-# 💻 Daily Code — Full Stack & AWS Journey
+# Daily Code — Full Stack & AWS Journey
 
-This is my public logbook. Every day (or as close to it as life allows) I push whatever I built, broke, fixed, or finally understood while leveling up as a full-stack developer with a focus on AWS cloud.
+This is my public logbook.
 
-No polished portfolio pieces here — just real, in-progress code, notes, mistakes, and small wins. If you're on a similar path, feel free to follow along, steal ideas, or point out where I'm doing something wrong. That's kind of the point.
+Every day, or as close to it as life allows, I push whatever I built, broke, fixed, or finally understood while learning full-stack development with a focus on AWS.
 
+Nothing here is polished. It's real, in-progress code, honest notes, mistakes, and small wins. If you're on a similar path, follow along, borrow ideas, or point out where I'm doing something wrong.
 
----
+## Why this repo exists
 
-## 🎯 Why this repo exists
-
-- Build the habit of coding and shipping something *every single day*
-- Keep myself accountable in public instead of just bookmarking tutorials
+- Build the habit of coding and shipping something every day
+- Stay accountable in public instead of just bookmarking tutorials
 - Document what I actually learn, not just what I copy-paste
-- Build a real trail of progress I (or anyone else) can look back on
+- Keep a real record of progress I can look back on
 
+## What I'm focusing on
 
-
----
-## 🧰 What I'm focusing on
-
-
-**Frontend**
-- HTML, CSS, JavaScript fundamentals (no skipping the basics)
+### Frontend
+- HTML, CSS, JavaScript fundamentals
 - React — components, hooks, state management
-- Responsive design & Tailwind CSS
+- Responsive design and Tailwind CSS
 
-**Backend**
-- Node.js + Express
+### Backend
+- Node.js and Express
 - REST API design
-- Databases — MongoDB & SQL (PostgreSQL/MySQL)
-- Authentication (JWT, sessions, OAuth)
+- Databases — MongoDB and SQL (PostgreSQL/MySQL)
+- Authentication — JWT, sessions, OAuth
 
-**AWS Cloud**
+### AWS Cloud
 - EC2 — spinning up and managing servers
 - S3 — storage basics and static hosting
 - Lambda — serverless functions
@@ -40,9 +35,7 @@ No polished portfolio pieces here — just real, in-progress code, notes, mistak
 - Route 53, CloudFront, CodePipeline (as I get to them)
 - Working toward AWS Certified Developer / Solutions Architect
 
----
-
-## 📁 How this repo is organized
+## Repo structure
 
 ```
 daily-code-fullstack-aws/
@@ -51,19 +44,17 @@ daily-code-fullstack-aws/
 ├── day-015-node-express-api/
 ├── day-032-mongodb-crud/
 ├── day-050-aws-ec2-deploy/
-├── day-...
-├── notes/              # markdown notes, cheat sheets, things I learned
-├── projects/           # slightly bigger mini-projects that span multiple days
+├── day-.../
+├── notes/          markdown notes and cheat sheets
+├── projects/       bigger mini-projects spanning multiple days
 └── README.md
 ```
 
 Each `day-XXX` folder usually has:
-- The code for that day
+- The code from that day
 - A short `notes.md` explaining what I did, what I struggled with, and what I'd do differently
 
----
-
-## 📆 Progress Log
+## Progress log
 
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
@@ -71,30 +62,21 @@ Each `day-XXX` folder usually has:
 | 002 | - | JS DOM manipulation | - |
 | ... | ... | ... | ... |
 
-*(I'll keep updating this table as I go — it's basically my commit history in table form.)*
+This table gets updated as I go. It's basically my commit history in table form.
 
----
-
-## 🏆 Milestones I'm working toward
+## Milestones
 
 - [ ] 100 days of consistent commits
 - [ ] Deploy my first full-stack app on AWS EC2
 - [ ] Build and deploy a serverless app using Lambda + API Gateway
 - [ ] Pass AWS Certified Cloud Practitioner
 - [ ] Pass AWS Certified Developer – Associate
-- [ ] Build one complete full-stack project end-to-end, deployed and documented
+- [ ] Build one complete full-stack project, end-to-end, deployed and documented
 
----
+## Follow along
 
-## 🤝 Follow along / connect
+If you're working through something similar, star the repo, follow it, or reach out. Always open to swapping notes with people on the same path.
 
-If you're doing something similar, drop a star, follow the repo, or reach out — always happy to swap notes with other people grinding through the same learning curve.
-
----
-
-## 📄 License
+## License
 
 Code in this repo is free to use, learn from, or reference under the MIT License.
-
-
-
