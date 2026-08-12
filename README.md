@@ -14,6 +14,7 @@ No polished portfolio pieces here — just real, in-progress code, notes, mistak
 - Document what I actually learn, not just what I copy-paste
 - Build a real trail of progress I (or anyone else) can look back on
 
+
 ---
 ## 🧰 What I'm focusing on
 
