@@ -24,6 +24,7 @@ This is less about showing off finished projects and more about showing the actu
 - React Hooks (useState, useEffect, useContext, etc.)
 - Tailwind CSS for styling
 
+
 ### Phase 3 — Backend Development
 - Node.js basics
 - Express.js — routing, middleware
