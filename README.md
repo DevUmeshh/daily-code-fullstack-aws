@@ -14,6 +14,7 @@ This is less about showing off finished projects and more about showing the actu
 
 ## Roadmap / Syllabus I'm following
 
+
 ### Phase 1 — Frontend Foundations
 - HTML and CSS fundamentals (semantic markup, layouts, flexbox, grid)
 - JavaScript basics — variables, functions, DOM manipulation, events
