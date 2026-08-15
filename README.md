@@ -77,17 +77,5 @@ daily-code-fullstack-aws/
 └── README.md
 ```
 
-Each `day-XXX` folder usually has:
-- The code from that day
-- A short `notes.md` explaining what I did, what I struggled with, and what I'd do differently
-
-## Follow along
-
-If you're working through something similar, star the repo, follow it, or reach out. Always open to swapping notes with people on the same path.
-
-## License
-
-Code in this repo is free to use, learn from, or reference under the MIT License.
-
 
 
