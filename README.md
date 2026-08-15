@@ -1,19 +1,3 @@
-# Daily Code — Full Stack & AWS Journey
-
-This is my public logbook.
-
-Every day, or as close to it as life allows, I push whatever I built, broke, fixed, or finally understood while learning full-stack development with a focus on AWS.
-
-Nothing here is polished. It's real, in-progress code, honest notes, mistakes, and small wins. If you're on a similar path, follow along, borrow ideas, or point out where I'm doing something wrong.
-
-## Why this repo exists
-
-I wanted a way to actually stay consistent instead of just watching tutorials and forgetting everything a week later. So the rule is simple: code something every day, push it, and write down what I learned — even if it's small, even if it's messy.
-
-This is less about showing off finished projects and more about showing the actual process of learning: the confusion, the bugs, the "oh that's how it works" moments.
-
-## Roadmap / Syllabus I'm following
-
 
 ### Phase 1 — Frontend Foundations
 - HTML and CSS fundamentals (semantic markup, layouts, flexbox, grid)
