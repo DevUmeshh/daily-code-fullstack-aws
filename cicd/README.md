@@ -1,2 +1,1 @@
-GitHub Actions / pipeline practice
 
