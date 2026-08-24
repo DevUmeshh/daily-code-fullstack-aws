@@ -1,2 +1,0 @@
-AWS notes and practice
-
