@@ -1,2 +1,0 @@
-MongoDB, Mongoose practice
-
