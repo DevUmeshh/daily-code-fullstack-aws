@@ -7,7 +7,7 @@ This repository contains my learning and practice in DevOps and Frontend Web Dev
 * HTML
 * CSS
 * JavaScript
-* React
+* React many more..
 
 ## DevOps
 
