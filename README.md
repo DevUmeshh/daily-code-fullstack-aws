@@ -1,20 +1,35 @@
 # DevOps & Frontend Learning
 
-This repository contains my learning and practice in DevOps and Frontend Web Development.
+This repository documents my learning and hands-on practice in **Frontend Web Development** and **DevOps**. I use it to organize notes, experiments, practice work, and projects as I continue learning.
 
-## Frontend
+## Frontend Development
 
-* HTML
-* CSS
-* JavaScript
-* React many more..
+Currently exploring and practicing:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- More frontend concepts and tools as I progress
 
 ## DevOps
 
-* Linux
-* Git and GitHub
-* Docker
-* CI/CD
-* AWS many more...
+Currently learning and practicing:
 
-I regularly add notes, practice, and projects as I learn.
+- Linux
+- Git and GitHub
+- Docker
+- CI/CD
+- AWS
+- More cloud and DevOps tools as I progress
+
+## What's in this Repository?
+
+This repository may include:
+
+- Learning notes and references
+- Hands-on practice
+- Small experiments
+- Projects and implementations
+
+I regularly update this repository as I learn new concepts and build practical projects.
