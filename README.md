@@ -32,4 +32,8 @@ This repository may include:
 - Small experiments
 - Projects and implementations
 
+<<<<<<< HEAD
 I regularly update this repository as I learn new concepts and build practical projects.
+=======
+I regularly update this repository as I learn new concepts and build practical projects.
+>>>>>>> ac8b40927dbca56f8a300d8a69b0cdc3704ff62b
