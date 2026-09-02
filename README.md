@@ -1,39 +1,24 @@
-# DevOps & Frontend Learning
+# Data Structures & Algorithms
 
-This repository documents my learning and hands-on practice in **Frontend Web Development** and **DevOps**. I use it to organize notes, experiments, practice work, and projects as I continue learning.
+My **DSA practice repository in C++**.
 
-## Frontend Development
+Contains solutions, implementations, and practice problems covering fundamental and advanced concepts.
 
-Currently exploring and practicing:
+## Topics
 
-- HTML
-- CSS
-- JavaScript
-- React
-- More frontend concepts and tools as I progress
+* C++ Basics
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Recursion
+* Sorting & Searching
+* Trees
+* Graphs
+* Dynamic Programming
 
-## DevOps
+## Goal
 
-Currently learning and practicing:
+Build strong problem-solving skills through consistent DSA practice.
 
-- Linux
-- Git and GitHub
-- Docker
-- CI/CD
-- AWS
-- More cloud and DevOps tools as I progress
-
-## What's in this Repository?
-
-This repository may include:
-
-- Learning notes and references
-- Hands-on practice
-- Small experiments
-- Projects and implementations
-
-<<<<<<< HEAD
-I regularly update this repository as I learn new concepts and build practical projects.
-=======
-I regularly update this repository as I learn new concepts and build practical projects.
->>>>>>> ac8b40927dbca56f8a300d8a69b0cdc3704ff62b
+**Language:** C++
